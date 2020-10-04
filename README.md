@@ -1,39 +1,60 @@
-# Simple NextJS Quick Start
+<h1 align="center">
+  <img alt="Logo" src="https://i.imgur.com/UAVGTvd.png" width="100%">
+</h1>
 
-A simple project starter to work with React, NextJS and Styled Components
+## 📕 Indice
 
-You can see the example in [https://nextjs-quickstart.now.sh/](https://nextjs-quickstart.now.sh/)
+- [Sobre](#-sobre)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Preview do projeto](#-preview-do-projeto)
 
-### 📦 Install
+---
 
-```
-$ git clone https://github.com/guilouro/simple-nextjs-quick-start.git
+## ⭐ Sobre
+A Landing Page do curso React Avançado foi desenvolvida com o objetivo de colocar em prática os conhecimentos aprendidos sobre NextJS e GraphQL no Frontend.
 
-$ yarn install
-```
+## 💻 Tecnologias utilizadas
 
-### 🔨 How to use
+O projeto foi feito utilizando as seguintes tecnologias
 
-Runs next which starts Next.js in development mode
+- ReactJS
+- NextJS
+- Typescript
+- Styled Components
+- GraphQL
 
-```bash
-$ yarn dev
-```
+---
 
-Runs next build which builds the application for production usage
-
-```bash
-$ yarn build
-```
-
-Runs next start which starts a Next.js production server
-
-```bash
-$ yarn start
-```
-
-Runs next build and export which exports a files in a `out` folder to deploy
+## 📦 Como baixar o projeto
 
 ```bash
-$ yarn deploy
+  #clonar o repositorio
+  $ git clone https://github.com/milenahikari/landing-page-next
+
+  #entrar na pasta do projeto
+  $ cd landing-page-next
+
+  #instalar as dependencias
+  $ yarn install
+
+  #executar o projeto
+  $ yarn dev
+
 ```
+
+---
+
+## 📱 Preview do projeto
+
+Segue alguns prints do projeto
+
+<div>
+  <img style="margin: 5px" alt="O que iremos construir" src="https://i.imgur.com/SSyRSbv.png" width="200">
+
+  <img style="margin: 5px" alt="Tecnologias utilizadas" src="https://i.imgur.com/Dhi3wlR.png" width="200">
+
+  <img style="margin: 5px" alt="Módulos do curso" src="https://i.imgur.com/330yS2z.png" width="200">
+</div>
+
+Desenvolvido com ♥ por Milena Hikari
