@@ -14,6 +14,8 @@
 ## ⭐ Sobre
 A Landing Page do curso React Avançado foi desenvolvida com o objetivo de colocar em prática os conhecimentos aprendidos sobre NextJS e GraphQL no Frontend.
 
+---
+
 ## 💻 Tecnologias utilizadas
 
 O projeto foi feito utilizando as seguintes tecnologias
